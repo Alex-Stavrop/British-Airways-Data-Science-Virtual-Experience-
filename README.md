@@ -5,15 +5,15 @@
 Data science virtual internship programme by British Airways through Forage!
 
 # Task 1 
-- applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/briVish-airways
-- analyze customer reviews using sentimental analysis to sort positive and negative reviews
-- preparing a powerpoint representation to highlight our insights and analysis
+- Applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/briVish-airways
+- Analyze customer reviews using sentimental analysis to sort positive and negative reviews
+- Preparing a powerpoint representation to highlight our insights and analysis
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # Task 2  
-- creating a classification model to predict customer buying behaviour
-- preparing a powerpoint representation to highlight our insights and analysis
+- Creating a classification model to predict customer buying behaviour
+- Preparing a powerpoint representation to highlight our insights and analysis
 
 **Program link**: [Forage](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science?ref=87jnjsrQEx6guHcaq)
 
-**Completion Certificate link**: [Certificate]([https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_87jnjsrQEx6guHcaq_1668892290001_completion_certificate.pdf](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_WwX4HYeQqudLogWpP_1692559374761_completion_certificate.pdf)https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_WwX4HYeQqudLogWpP_1692559374761_completion_certificate.pdf)
+
